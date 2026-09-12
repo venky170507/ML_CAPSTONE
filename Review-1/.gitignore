@@ -1,0 +1,62 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ================================
+# Jupyter
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# macOS
+# ================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ================================
+# VS Code / IDE
+# ================================
+.vscode/
+.idea/
+
+# ================================
+# Environment / secrets
+# ================================
+.env
+.env.*
+
+# ================================
+# Python packaging
+# ================================
+*.egg-info/
+dist/
+build/
+
+# ================================
+# Logs / temporary files
+# ================================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ================================
+# Saved ML models
+# ================================
+*.pkl
+*.joblib
+
+# Keep the project dataset and generated CSV results under version control.
+# Do NOT add *.csv here.
