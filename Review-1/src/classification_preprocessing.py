@@ -115,7 +115,15 @@ def build_preprocessor(X):
 
 def save_result(result, filename):
     """Save one model's metrics as a CSV row."""
+
+    from pathlib import Path
+
+    # Review-1/results
+    results_dir = Path(__file__).resolve().parent.parent / "results"
+
     output = results_dir / filename
     output.parent.mkdir(parents=True, exist_ok=True)
+
     pd.DataFrame([result]).to_csv(output, index=False)
+
     return output

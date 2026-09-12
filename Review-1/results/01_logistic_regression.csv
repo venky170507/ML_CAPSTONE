@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1
+Logistic Regression,0.852492578564848,0.8464078035701955
