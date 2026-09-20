@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1
+Decision Tree Classifier,0.8171767837035521,0.8178094162394377

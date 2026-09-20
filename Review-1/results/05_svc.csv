@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1
+Support Vector Classifier (SVC),0.8505476507319071,0.8432215690094742
