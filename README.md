@@ -561,9 +561,9 @@ All analysis, interpretation and conclusions must be written and verified by the
 
 | Name | Roll Number | Responsibility |
 |---|---|---|
-| Member 1 | — | Regression Track |
-| Member 2 | — | Classification Track |
-| Member 3 | — | Clustering Track |
+| Member 1 | Gireesh Vardhan | Regression Track |
+| Member 2 | Konudula Deepak | Classification Track |
+| Member 3 | Venkata Ramana  | Clustering Track |
 
 > Each member is the primary owner of at least one track and can explain every line of code in it during the viva.
 
