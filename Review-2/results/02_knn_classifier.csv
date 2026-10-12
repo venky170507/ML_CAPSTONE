@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1
+K-Nearest Neighbors,0.8267990582454704,0.8227614286305988

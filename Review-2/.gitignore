@@ -1,0 +1,10 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+# Optional local model files
+*.pkl
+*.joblib

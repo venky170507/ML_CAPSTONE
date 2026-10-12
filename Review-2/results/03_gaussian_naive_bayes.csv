@@ -1,0 +1,2 @@
+model,accuracy,weighted_f1
+Gaussian Naive Bayes,0.588903674889958,0.6114363083201039
